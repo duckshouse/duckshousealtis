@@ -9,15 +9,22 @@ Ducks House Altis server to do list:
 * item weapons en vehicle prijzen aanpassen
 * salarissen aanpassen
 * donator levels goed inrichten
-* vehicle storage aanpassen(vehicle slots)
-* tempest miner verplaatsen naar donator level
+* vehicle storage aanpassen(vehicle slots)  ##### FIXED
+* tempest miner verplaatsen naar donator level ##### FIXED
 * god mode in safezones
-* alle communicatie t.o.v ROT veranderen naar ducks house ## ALLEEN MARKET SYSTEM NOG
-* BEC admin bans en commands instellen
-* Intro afbeelding maken
+* 
+* BEC admin bans en commands instellen #####FIXED
+* Intro afbeelding maken ###### FIXED
 * Reclame maken (altisliferpg.com, youtube, ducks-house.com)
 * Zoeken naar mooie addons denk aan casino, nightclub etc ect
 * Kijken voor nieuwe textures
-* GANG SYSTEEM NAKIJKEN WERKT NIET
+* GANG SYSTEEM NAKIJKEN WERKT NIET  +###### FIXED
 * DONATOR SPAWND EN CITIES TOEVOEGEN - Zorgen dat ie maar 1 x in de spawn lijst voorkomt
-* THE PURGE
+* THE PURGE ######FIXED
+
+RECENT TOEGEVPEGD:
++ ROB GAS STATIONS
++ LIQOUR STORE IN KAVALA
++ ALCOHOL SYSTEM (Nakijken want dronken effects lijken te lang aan te houden ook als een speler dood gaat houd het daarna aan)
++ CASINO (Alleen de NPC het script moet nog geimplementeerd worden)
++ ORGAN THEFT (nog implementeren)
